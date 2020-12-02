@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878283504790",
+    "firebase_url": "https://enerd-91ba6.firebaseio.com",
+    "project_id": "enerd-91ba6",
+    "storage_bucket": "enerd-91ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878283504790:android:6a0a19cb65269db40716b7",
+        "android_client_info": {
+          "package_name": "com.ecommerce.enerd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878283504790-7bm0g989q0h6d02ek64cf9uoomj14o5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecommerce.enerd",
+            "certificate_hash": "480142809e62940b825120ec3b71cbb46d7749c6"
+          }
+        },
+        {
+          "client_id": "878283504790-fk1as5fs3t4f9897qekvq5e9bhi2i4l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvZgnCTMb4RaVs-rAC15fAbToM9-5BYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878283504790-fk1as5fs3t4f9897qekvq5e9bhi2i4l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
